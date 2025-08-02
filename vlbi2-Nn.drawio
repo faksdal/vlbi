@@ -494,7 +494,7 @@
           <mxGeometry x="322" y="82" width="27" height="27" as="geometry" />
         </mxCell>
         <mxCell id="gsH8v4CyxxgRTx1_KSfT-44" value="NMA2 RF Filter Bank" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="gsH8v4CyxxgRTx1_KSfT-10">
-          <mxGeometry x="30" y="489" width="380" height="171" as="geometry" />
+          <mxGeometry x="30" y="509" width="380" height="171" as="geometry" />
         </mxCell>
         <mxCell id="gsH8v4CyxxgRTx1_KSfT-58" value="V1in" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;" vertex="1" parent="gsH8v4CyxxgRTx1_KSfT-44">
           <mxGeometry x="41" y="52" width="27" height="27" as="geometry" />
