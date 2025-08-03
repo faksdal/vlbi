@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nRKNMtCE4UJZil_roKws-1" value="Receiver Trolley - Nn" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="nRKNMtCE4UJZil_roKws-1" value="Receiver Trolley VLBI-2 - Nn" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1680" y="40" width="1370" height="921" as="geometry" />
         </mxCell>
         <mxCell id="nRKNMtCE4UJZil_roKws-2" value="LNA BIAS Module - Nn" style="swimlane;whiteSpace=wrap;html=1;" parent="nRKNMtCE4UJZil_roKws-1" vertex="1">
