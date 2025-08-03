@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:141.0) Gecko/20100101 Firefox/141.0" version="28.0.7">
   <diagram name="Page-1" id="zuOh0gFXci9iEd-Isngf">
-    <mxGraphModel dx="3961" dy="1296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6142" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nRKNMtCE4UJZil_roKws-1" value="Receiver Trolley VLBI-2 - Nn" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1680" y="40" width="1370" height="921" as="geometry" />
+          <mxGeometry x="-1679" y="40" width="1370" height="921" as="geometry" />
         </mxCell>
         <mxCell id="nRKNMtCE4UJZil_roKws-2" value="LNA BIAS Module - Nn" style="swimlane;whiteSpace=wrap;html=1;" parent="nRKNMtCE4UJZil_roKws-1" vertex="1">
           <mxGeometry x="420" y="70" width="210" height="40" as="geometry" />
@@ -464,7 +464,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gsH8v4CyxxgRTx1_KSfT-10" value="Back-ends room Brandal" style="swimlane;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#007FFF);fillColor=light-dark(#FFFFFF,#007FFF);" parent="1" vertex="1">
-          <mxGeometry x="-300" width="3120" height="1999" as="geometry" />
+          <mxGeometry x="-300" width="2000" height="1999" as="geometry" />
         </mxCell>
         <mxCell id="gsH8v4CyxxgRTx1_KSfT-15" value="RFoF APIC Rx - Nn" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="gsH8v4CyxxgRTx1_KSfT-10" vertex="1">
           <mxGeometry x="30" y="70" width="380" height="220" as="geometry" />
