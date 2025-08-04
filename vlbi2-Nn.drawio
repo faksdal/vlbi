@@ -535,7 +535,7 @@
           <mxGeometry x="811.5" y="82" width="27" height="27" as="geometry" />
         </mxCell>
         <mxCell id="gsH8v4CyxxgRTx1_KSfT-44" value="NMA2 RF Filter Bank - Nn" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="gsH8v4CyxxgRTx1_KSfT-10" vertex="1">
-          <mxGeometry x="50" y="520" width="880" height="450" as="geometry" />
+          <mxGeometry x="48" y="520" width="880" height="450" as="geometry" />
         </mxCell>
         <mxCell id="F7mItK_TX8zf2Qjk9ks9-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=light-dark(#001DBC,#007FFF);" parent="gsH8v4CyxxgRTx1_KSfT-44" source="gsH8v4CyxxgRTx1_KSfT-61" target="F7mItK_TX8zf2Qjk9ks9-164" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -565,7 +565,7 @@
           <mxGeometry x="163.5" y="329" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="F7mItK_TX8zf2Qjk9ks9-117" value="V3out" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;" parent="gsH8v4CyxxgRTx1_KSfT-44" vertex="1">
-          <mxGeometry x="252.5" y="410" width="35" height="35" as="geometry" />
+          <mxGeometry x="251.5" y="410" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="F7mItK_TX8zf2Qjk9ks9-118" value="V4out" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;" parent="gsH8v4CyxxgRTx1_KSfT-44" vertex="1">
           <mxGeometry x="341.5" y="410" width="35" height="35" as="geometry" />
@@ -590,7 +590,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F7mItK_TX8zf2Qjk9ks9-123" value="H3out" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;" parent="gsH8v4CyxxgRTx1_KSfT-44" vertex="1">
-          <mxGeometry x="562.5" y="410" width="35" height="35" as="geometry" />
+          <mxGeometry x="561.5" y="410" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="F7mItK_TX8zf2Qjk9ks9-124" value="H2out" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;" parent="gsH8v4CyxxgRTx1_KSfT-44" vertex="1">
           <mxGeometry x="651.5" y="329" width="35" height="35" as="geometry" />
