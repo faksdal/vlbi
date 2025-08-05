@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:141.0) Gecko/20100101 Firefox/141.0" version="28.0.7">
   <diagram name="Page-1" id="zuOh0gFXci9iEd-Isngf">
-    <mxGraphModel dx="4294" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4347" dy="1073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nRKNMtCE4UJZil_roKws-1" value="Receiver Trolley VLBI-2 - Nn" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
-          <mxGeometry x="-2320" y="10" width="1539" height="540" as="geometry">
+          <mxGeometry x="-2320" y="10" width="1539" height="740" as="geometry">
             <mxRectangle x="-1679" y="40" width="200" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
