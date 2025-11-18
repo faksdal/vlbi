@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.0.3">
   <diagram name="Page-1" id="T6l5kbxst5cVdcprUycA">
-    <mxGraphModel dx="2958" dy="1591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1720" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1695,7 +1695,10 @@
           <mxGeometry x="2094.5" y="129" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IKZPDzCE7MSBB5whuRHQ-615" value="Flexbuff" style="swimlane;whiteSpace=wrap;html=1;" parent="IKZPDzCE7MSBB5whuRHQ-18" vertex="1">
-          <mxGeometry x="1410" y="1039" width="650" height="330" as="geometry" />
+          <mxGeometry x="1210" y="1039" width="640" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="7UuxJpFOwbjw8jUhyRme-2" value="SuperMicro Switch" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="IKZPDzCE7MSBB5whuRHQ-18">
+          <mxGeometry x="1190" y="869" width="640" height="121" as="geometry" />
         </mxCell>
         <mxCell id="IKZPDzCE7MSBB5whuRHQ-266" value="Peltier" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1560" y="1038" width="60" height="30" as="geometry" />
